@@ -3,7 +3,9 @@ import PySimpleGUI as sg
 sg.theme('SystemDefault')
 
 
+class my_items:
 
+    
 
 
 def layout_create(x,items):
